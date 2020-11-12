@@ -1,0 +1,15 @@
+.header {
+  position: absolute;
+  padding: 10px;
+  top: 10px;
+  color: white;
+  margin-left: 5px;
+  background-color: transparent;
+}
+
+/* .header > img {
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+  margin-right: 5px;
+} */
